@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "liveDevil （『仮面ライダーリバイス』主題歌）",
+  "base_artist": "Da-iCE feat. 木村昴",
+  "createdAt": "2025-12-20T07:56:56.995411Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "liveDevil - 『仮面ライダーリバイス』主題歌",
+      "artist": "Da-iCE, 木村昴",
+      "has_synced": true,
+      "path": "select/01_liveDevil_-_『仮面ライダーリバイス』主題歌_Da-iCE,_木村昴.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "liveDevil （『仮面ライダーリバイス』主題歌） - liveDevil (Theme of KAMEN RIDER RIVICE)",
+      "artist": "Da-iCE feat. Subaru kimura",
+      "has_synced": true,
+      "path": "select/02_liveDevil_(『仮面ライダーリバイス』主題歌)_-_liveDevil_(Theme_of_KAMEN_RIDER_RIVICE)_Da-iCE_feat._Subaru_kimura.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "liveDevil （『仮面ライダーリバイス』主題歌）",
+      "artist": "Da-iCE",
+      "has_synced": true,
+      "path": "select/03_liveDevil_(『仮面ライダーリバイス』主題歌)_Da-iCE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "liveDevil (TV Size)",
+      "artist": "Da-iCE feat.木村昴",
+      "has_synced": true,
+      "path": "select/04_liveDevil_(TV_Size)_Da-iCE_feat.木村昴.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "liveDevil - TV size 『仮面ライダーリバイス』主題歌",
+      "artist": "Da-iCE",
+      "has_synced": true,
+      "path": "select/05_liveDevil_-_TV_size_『仮面ライダーリバイス』主題歌_Da-iCE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "liveDevil - 『仮面ライダーリバイス』主題歌",
+      "artist": "Da-iCE",
+      "has_synced": true,
+      "path": "select/06_liveDevil_-_『仮面ライダーリバイス』主題歌_Da-iCE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "liveDevil (『仮面ライダーリバイス』主題歌)",
+      "artist": "VARIOUS ARTISTS",
+      "has_synced": true,
+      "path": "select/07_liveDevil_(『仮面ライダーリバイス』主題歌)_VARIOUS_ARTISTS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "liveDevil - TV size『仮面ライダーリバイス』主題歌",
+      "artist": "Da-iCE",
+      "has_synced": true,
+      "path": "select/08_liveDevil_-_TV_size『仮面ライダーリバイス』主題歌_Da-iCE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "liveDevil (TV size『仮面ライダーリバイス』主題歌)",
+      "artist": "Da-iCE feat. 木村昴",
+      "has_synced": true,
+      "path": "select/09_liveDevil_(TV_size『仮面ライダーリバイス』主題歌)_Da-iCE_feat._木村昴.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "liveDevil (『仮面ライダーリバイス』主題歌)",
+      "artist": "Da-iCE feat. 木村昴",
+      "has_synced": true,
+      "path": "select/10_liveDevil_(『仮面ライダーリバイス』主題歌)_Da-iCE_feat._木村昴.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "01. liveDevil (『仮面ライダーリバイス』主題歌)",
+      "artist": "Da-iCE",
+      "has_synced": true,
+      "path": "select/11_01._liveDevil_(『仮面ライダーリバイス』主題歌)_Da-iCE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "03. liveDevil (TV size『仮面ライダーリバイス』主題歌)",
+      "artist": "Da-iCE",
+      "has_synced": true,
+      "path": "select/12_03._liveDevil_(TV_size『仮面ライダーリバイス』主題歌)_Da-iCE.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "liveDevil (KARAOKE with YUDAI)",
+      "artist": "Da-iCE",
+      "has_synced": true,
+      "path": "select/13_liveDevil_(KARAOKE_with_YUDAI)_Da-iCE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "liveDevil",
+      "artist": "Da-iCE feat. 木村昴",
+      "has_synced": false,
+      "path": "select/pl_01_liveDevil_Da-iCE_feat._木村昴.txt"
+    }
+  ]
+}
